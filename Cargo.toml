@@ -1,0 +1,7 @@
+[package]
+name = "piston-graphics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+piston_window = "*"
